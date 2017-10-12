@@ -1,7 +1,7 @@
 ✓ Letra 12 - Arial / Times new Roman
 ✓ Justificado
 ✓ Titulos centrados, mayúsculas y en negritas
-✓Espaciado 1.15
+✓ Espaciado 1.15
 
 ✓ Indice tema libre será incluido en el indice general
 ✓ Temas y subtemas centrados, mayúsculas y negritas
