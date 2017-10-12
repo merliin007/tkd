@@ -13,9 +13,9 @@
 ✓ Mover gimnasia antes de ciclismo (dado que hay mas actividades deportivas)
 - Mencion juegos interaliados en español o todo en francés
 ✓ Revisar interlineados entre titulos/tema
-- Se repitió el tema de deporte durante la 2a guerra
-- Olimpiadas Nazis y Juegos olimpicos - repetidos
-- Origen Nazi relevo antorcha repetidos
+? Se repitió el tema de deporte durante la 2a guerra
+? Olimpiadas Nazis y Juegos olimpicos - repetidos
+? Origen Nazi relevo antorcha repetidos
 - Dividir por siglos para ubicar en tiempos los deportes mencionados
 --Mencionar el after de la guerra en el deporte
 
