@@ -9,17 +9,17 @@
 	- Ambito local (selectivos nacionales, 
 	- regionales (panamericanos, centroamericanos, copa asiaticas <una sola region geográfica>)
 	- indole mundial(copa del mundo, grand prix, mundiales)
-+ TKD en Mexico, hoja aparte
-+ MDK, solo lo importante no tanta historia
-+ Quitar viñeta 7 de MDK
-+ Nada de notas periodísiticas (pag 46)
-+ No es necesaria la cronologia de kukkiwon
+ok + TKD en Mexico, hoja aparte
+ok + MDK, solo lo importante no tanta historia
+ok + Quitar viñeta 7 de MDK
+ok + Nada de notas periodísiticas (pag 46)
+ok + No es necesaria la cronologia de kukkiwon
 	- Agregar cuando es necesario tener una certificacion de kukkiwon, opcional practicantes cinta negra avalada 
 	  por la federacion, obligatorio cintas negras  seleccionados nacionales participando en eventos internacionales, arbitros internacionales y coaches
-+ Dobok, Cambiar Cinturon por Cintas
-+ No separar la palabra taekwondo en silabas
+ok + Dobok, Cambiar Cinturon por Cintas
+ok + No separar la palabra taekwondo en silabas
 	- Agregar significado de las costuras del dobok
-+ Cintas hoja a parte
+ok + Cintas hoja a parte
 + Tiempos para negro, minimo 36 meses
 + Proyecciones (revisar acentos), qué es proyeccion en mis palabras, no tanto la definición de judo
 	- Tomar en cuenta pesos, movimientos, si estamos parados
