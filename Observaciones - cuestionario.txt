@@ -1,0 +1,40 @@
++ Listo: "Que es TKD" <-- Ilustración
++ Listo: "Principios" <-- Ilustración
++ Bases, hoja a parte
++ Fundamentos, hoja a parte
++ Fundamentos <-- quitar los principios, repetidos!!
++ Separar Historia, quitar WTF (actualmente WT) debe ir hoja a parte
++ Listo Historia
++ Organizar Eventos donde ha participado el TKD de acuerdo a region geográfica
+	- Ambito local (selectivos nacionales, 
+	- regionales (panamericanos, centroamericanos, copa asiaticas <una sola region geográfica>)
+	- indole mundial(copa del mundo, grand prix, mundiales)
++ TKD en Mexico, hoja aparte
++ MDK, solo lo importante no tanta historia
++ Quitar viñeta 7 de MDK
++ Nada de notas periodísiticas (pag 46)
++ No es necesaria la cronologia de kukkiwon
+	- Agregar cuando es necesario tener una certificacion de kukkiwon, opcional practicantes cinta negra avalada 
+	  por la federacion, obligatorio cintas negras  seleccionados nacionales participando en eventos internacionales, arbitros internacionales y coaches
++ Dobok, Cambiar Cinturon por Cintas
++ No separar la palabra taekwondo en silabas
+	- Agregar significado de las costuras del dobok
++ Cintas hoja a parte
++ Tiempos para negro, minimo 36 meses
++ Proyecciones (revisar acentos), qué es proyeccion en mis palabras, no tanto la definición de judo
+	- Tomar en cuenta pesos, movimientos, si estamos parados
+	- Quitar nombres técnicos japoneses (pryecion tomando el cuello, brazo, etc)
+	- Agregar 3 tipos de proyecciones
++ Lo mismo en derribes ^
++ Área competencia, especificar combate, organizar de la siguiente manera:
+	- Cómo se hacen Divisiones, genero, edad, peso (tablas de peso)
+	- Ropa
+	- equipo
+	- areas, incluir ahi los arbitros}
+	- rounds por edad, tiempos duracion
+	- marcaje de puntos
+	- deducciones y amonstaciones
+	- ganador
++ Competencia de formas, agregar área de competencia	
++ Rompimiento, agregar formas de sujecion de tabla
+	- sostenida por una sola persona, dos personas, fondo de agua, colgado, aventado al aire, apoyado con objetos al piso
