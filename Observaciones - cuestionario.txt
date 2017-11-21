@@ -20,10 +20,10 @@ ok + Dobok, Cambiar Cinturon por Cintas
 ok + No separar la palabra taekwondo en silabas
 ok	- Agregar significado de las costuras del dobok
 ok + Cintas hoja a parte
-+ Tiempos para negro, minimo 36 meses
+ok + Tiempos para negro, minimo 36 meses
 + Proyecciones (revisar acentos), qué es proyeccion en mis palabras, no tanto la definición de judo
 	- Tomar en cuenta pesos, movimientos, si estamos parados
-	- Quitar nombres técnicos japoneses (pryecion tomando el cuello, brazo, etc)
+	- Quitar nombres técnicos japoneses (proyeccion tomando el cuello, brazo, etc)
 	- Agregar 3 tipos de proyecciones
 + Lo mismo en derribes ^
 ok + Área competencia, especificar combate, organizar de la siguiente manera:
