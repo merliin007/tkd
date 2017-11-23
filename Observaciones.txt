@@ -1,4 +1,4 @@
-✓ Letra 12 - Arial / Times new Roman
+﻿✓ Letra 12 - Arial / Times new Roman
 ✓ Justificado
 ✓ Titulos centrados, mayúsculas y en negritas
 ✓ Espaciado 1.15
@@ -27,3 +27,7 @@ http://www.lanacion.com.ar/1814553-la-guerra-fria-en-el-deporte
 https://es.wikipedia.org/wiki/1991
 
 1915 - 1917, torneo de golf
+
+Javier Eloy Martínez Guirao (2012). Una etnografía de las artes marciales. Procesos de cambio y adaptación cultural en el taekwondo. Ed. Club Universitario. Alicante, España.
+
+Gral. Choi Hong Hi (1996). Enciclopedia del Taekwondo. International Taekwon-Do Federation. Argentina.
